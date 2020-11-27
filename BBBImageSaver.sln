@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BBBImageSaver", "BBBImageSaver\BBBImageSaver.csproj", "{892C4F00-8572-4131-9E92-6CC0063AFC92}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{892C4F00-8572-4131-9E92-6CC0063AFC92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{892C4F00-8572-4131-9E92-6CC0063AFC92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{892C4F00-8572-4131-9E92-6CC0063AFC92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{892C4F00-8572-4131-9E92-6CC0063AFC92}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3AE3D9F0-CCFA-43CB-BAFD-B15FE182D4CF}
+	EndGlobalSection
+EndGlobal
